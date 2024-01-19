@@ -8,4 +8,4 @@ function getListStudentIds(students) {
   return ids;
 }
 
-export default getListStudentIds;01~
+export default getListStudentIds;
